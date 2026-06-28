@@ -71,24 +71,22 @@ Dashboard Display
 
 Early-Risk-Detection-System
 
-│
-├── Dataset
-│
-├── ML_Model
-│
-├── Backend
-│
-├── Frontend
-│
-├── Documentation
-│
-└── Research Papers
+─ Dataset
+
+─ ML_Model
+
+─ Backend
+
+─ Frontend
+
+─ Documentation
+
+─ Research Papers
 
 ## Team Members
 
 Final Year Project Team:
 
 - Khuzaimah Khan
-- Tayyaba
-- Zainab
+- Tayyaba Zainab
 - Ahsan Jamil
