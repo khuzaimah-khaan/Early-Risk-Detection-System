@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="pxzzzWOlAvLUMRNk_gUJ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Top Navigation" vertex="1">
+          <mxGeometry height="80" width="600" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Analytics Dashboard" vertex="1">
+          <mxGeometry height="80" width="440" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Risk Trend Chart" vertex="1">
+          <mxGeometry height="80" width="440" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Bug Trend Chart" vertex="1">
+          <mxGeometry height="80" width="440" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Completion Trend Chart" vertex="1">
+          <mxGeometry height="80" width="440" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Feature Importance Chart" vertex="1">
+          <mxGeometry height="80" width="440" x="280" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Project Statistice" vertex="1">
+          <mxGeometry height="80" width="440" x="280" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Sidebar" vertex="1">
+          <mxGeometry height="480" width="160" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TUco4WA4TCwh4Gh6jg1t-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Analytics Wireframe" vertex="1">
+          <mxGeometry height="30" width="210" x="310" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

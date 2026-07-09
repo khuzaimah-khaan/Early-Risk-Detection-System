@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ld1P8Lww-9TpptPtzteA">
+    <mxGraphModel dx="1414" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Top Navigation&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="680" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Upload CSV File" vertex="1">
+          <mxGeometry height="80" width="440" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Project Name" vertex="1">
+          <mxGeometry height="80" width="220" x="260" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Team Size" vertex="1">
+          <mxGeometry height="30" width="90" x="310" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Completed Task" vertex="1">
+          <mxGeometry height="30" width="110" x="320" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Pending Task" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Bug Count" vertex="1">
+          <mxGeometry height="30" width="90" x="310" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Overdue Tasks" vertex="1">
+          <mxGeometry height="20" width="165" x="290" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Commit Frequency" vertex="1">
+          <mxGeometry height="40" width="125" x="320" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Predict Risk Button" vertex="1">
+          <mxGeometry height="80" width="260" x="420" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Risk Level" vertex="1">
+          <mxGeometry height="80" width="440" x="320" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Risk Score" vertex="1">
+          <mxGeometry height="80" width="440" x="320" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Explanation" vertex="1">
+          <mxGeometry height="83" width="440" x="320" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Recommendation" vertex="1">
+          <mxGeometry height="87" width="440" x="320" y="943" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ _ _ _ _ _]" vertex="1">
+          <mxGeometry height="30" width="90" x="510" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ _ _ _ _ _]" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[&amp;nbsp; _ _ _ _ _]" vertex="1">
+          <mxGeometry height="30" width="80" x="510" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[&amp;nbsp; _ _ _ _ _]" vertex="1">
+          <mxGeometry height="30" width="80" x="510" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ _ _ _ _ _]" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ _ _ _ _ _]" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ _ _ _ _ _]" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="Prediction Wireframe" vertex="1">
+          <mxGeometry height="20" width="190" x="300" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv2HkHA_n1RZ65sQxvxS-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&amp;nbsp;Sidebar" vertex="1">
+          <mxGeometry height="830" width="240" x="80" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
