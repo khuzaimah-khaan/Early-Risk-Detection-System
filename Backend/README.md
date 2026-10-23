@@ -33,7 +33,7 @@ Run this command:
 ```powershell
 python -m pip install flask
 ```
-
+python -m pip install -r requirements.txt
 ### Step 5: Start the Backend
 Run this command:
 
