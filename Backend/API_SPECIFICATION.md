@@ -53,6 +53,11 @@ If project_name is missing or empty:
 {
   "error": "project_name is required"
 }
+If project_name is not a text value:
+
+{
+  "error": "project_name must be a text value"
+}
 
 ## 5. Important Note
 

@@ -4,6 +4,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
+
 @app.route("/health", methods=["GET"])
 def health_check():
     return jsonify({
@@ -22,9 +23,16 @@ def assess_project():
 
     project_name = data.get("project_name")
 
-    if not isinstance(project_name, str) or not project_name.strip():
+    if project_name is None or (
+        isinstance(project_name, str) and not project_name.strip()
+    ):
         return jsonify({
             "error": "project_name is required"
+        }), 400
+
+    if not isinstance(project_name, str):
+        return jsonify({
+            "error": "project_name must be a text value"
         }), 400
 
     return jsonify({
